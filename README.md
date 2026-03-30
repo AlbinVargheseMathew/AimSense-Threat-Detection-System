@@ -4,7 +4,7 @@
 
 AimSense is an AI-based surveillance and targeting system designed to detect, track, and assist in handling potential threats in real time.
 
-The system uses deep learning and computer vision to identify weapons and humans from a live camera feed. However, it does not operate autonomously — a human operator is always required to approve any action.
+The system uses deep learning and computer vision to identify weapons and humans from a live camera feed. However, it does not operate autonomously  a human operator is always required to approve any action.
 
 This ensures both **high speed (AI)** and **ethical control (Human)** in the system.
 
