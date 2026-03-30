@@ -12,7 +12,7 @@ This ensures both **high speed (AI)** and **ethical control (Human)** in the sys
 
 ## Problem Statement
 
-Modern defense systems require fast decision-making, but fully autonomous systems can be unsafe.
+Modern defense systems require fast decision-making, but fully autonomous systems can be unsafe as current AI systems lack the deliberate logic and reasoning possesed by humans. 
 
 The challenge is to:
 - Use AI for fast detection
