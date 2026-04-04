@@ -61,7 +61,7 @@ This multi-stage detection reduces false positives and improves accuracy. :conte
 
 This project uses two YOLOv8 models:
 
-- `best.pt` → Main object detection model  
+- `best.pt` → Main weapon detection model  
   - Detects: person, gun, grenade, explosive  
   - Used for primary threat detection  
 
